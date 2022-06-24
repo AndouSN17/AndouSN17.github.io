@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: grey;
+font-family: 'Anek Latin', sans-serif;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  flex: auto;
+
+}
+
+article {
+  flex: 2;
+  overflow-y: auto;
+}
+
+
+
